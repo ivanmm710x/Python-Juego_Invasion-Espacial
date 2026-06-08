@@ -1,8 +1,8 @@
-# 👾 Invasión Espacial - Pygame
+# Invasión Espacial - Pygame
 
 Videojuego arcade 2D estilo *shoot 'em up* desarrollado íntegramente en Python. Este proyecto es una aplicación práctica de arquitectura de software orientada a videojuegos, dejando de lado la consola de comandos (CLI) para gestionar una interfaz gráfica completa y eventos en tiempo real.
 
-## 🧰 Inventario de Habilidades Técnicas
+## Inventario de Habilidades Técnicas
 
 Desarrollar un juego desde cero obliga a manejar conceptos que son la base de cualquier software interactivo:
 
@@ -12,7 +12,7 @@ Desarrollar un juego desde cero obliga a manejar conceptos que son la base de cu
 
 ---
 
-## ⚙️ Cómo ejecutar el juego (Source Code)
+## Cómo ejecutar el juego (Source Code)
 
 > **Nota del Desarrollador:** Este proyecto se distribuye exclusivamente mediante su código fuente (`.py`). No se incluyen archivos `.exe` precompilados. Esto garantiza la total transparencia del código y evita los falsos positivos o bloqueos por políticas de seguridad (Device Guard / SmartScreen) comunes en entornos Windows al usar herramientas de empaquetado como PyInstaller.
 
@@ -31,7 +31,7 @@ pip install pygame-ce
 ```bash
 python main.py
 ```
-🎮 Controles
+Controles
 Flecha Izquierda / Derecha: Mover la nave.
 
 Barra Espaciadora: Disparar láser.
